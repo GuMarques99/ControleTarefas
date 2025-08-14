@@ -54,3 +54,5 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+/ControleTarefas/Api/appsettings.json
+/ControleTarefas/Api/appsettings.Development.json
